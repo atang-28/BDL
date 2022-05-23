@@ -1,0 +1,32 @@
+[
+    {
+        "no": 1,
+        "nama": "Putu",
+        "alamat": "Denpasar"
+    },
+    {
+        "no": 2,
+        "nama": "Kadek",
+        "alamat": "Surabaya"
+    },
+    {
+        "no": 3,
+        "nama": "Komang",
+        "alamat": "Bangli"
+    },
+    {
+        "no": 4,
+        "nama": "Atang",
+        "alamat": "Lombok Timur"
+    },
+    {
+        "no": 5,
+        "nama": "Randi",
+        "alamat": "Bali"
+    },
+    {
+        "no": 6,
+        "nama": "Doni",
+        "alamat": "Madura"
+    }
+]
