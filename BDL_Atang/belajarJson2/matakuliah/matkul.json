@@ -1,0 +1,17 @@
+[
+    {
+        "kd_mk": "BSD01",
+        "mk": "Basis Data",
+        "sks": 3
+    },
+    {
+        "kd_mk": "BSD02",
+        "mk": "Basis Data Lanjut",
+        "sks": 3
+    },
+    {
+        "kd_mk": "MCL01",
+        "mk": "Machine Learning",
+        "sks": 4
+    }
+]
