@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<toko>
+    <barang>
+        <id_barang>11001</id_barang>
+        <nama_barang>Roti Vanesa</nama_barang>
+        <harga>8500</harga>
+    </barang>
+    <barang>
+        <id_barang>1102</id_barang>
+        <nama_barang>Kopi Nescafe</nama_barang>
+        <harga>11000</harga>
+    </barang>
+    <barang>
+        <id_barang>1103</id_barang>
+        <nama_barang>Ultramilk Cokelat</nama_barang>
+        <harga>7500</harga>
+    </barang>
+</toko>

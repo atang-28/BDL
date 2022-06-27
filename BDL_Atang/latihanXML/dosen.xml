@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akademik>
+    <dosen>
+        <nidn> 0824078501 </nidn>
+        <nama> I Gede Totok Suryawan </nama>
+        <alamat> Jl. Tukad Pakerisan </alamat>
+    </dosen>
+    <dosen>
+        <nidn> 05012654025 </nidn>
+        <nama> Dewi Jegeg </nama>
+        <alamat> Kuta Bali </alamat>
+    </dosen>
+</akademik>
